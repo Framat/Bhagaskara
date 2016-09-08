@@ -1,0 +1,1 @@
+{"version":3,"file":"colors.css","sources":["colors.scss"],"sourcesContent":["$maincolor: #9e459a;  //glowny kolor .\r\n$fontcolor: #676767; //czcionka\r\n$background:#eee;\r\n$button:#A957A5; // to dotyczy przyciskow\r\n"],"mappings":"","names":[],"sourceRoot":"/source/"}

@@ -1,0 +1,24 @@
+@mixin btn {
+    background: $leading-color;
+    border-bottom: 5px solid $darkenlead-color;
+    font-size: 20px;
+    border-radius: 7px;
+    padding: 16px 48px;
+    color: $main-color;
+    text-decoration: none;
+}
+@mixin btnhover {
+    background: $main-color;
+    transition: 0.7s;
+    border: solid 1px $darkenlead-color;
+    color: $base-color;
+}
+@mixin river {
+    background-image: url("../Img/river/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 130px;
+}
