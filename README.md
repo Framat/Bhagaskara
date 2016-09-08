@@ -3,7 +3,7 @@
 
 ###Please look at my website Created on the 3rd workshop at [Coder’s Lab](http://coderslab.pl/kurs-front-end)
 
-### Visit -->[Bhagaskara]<--(https://framat.github.io/Bhagaskara/) 
+### Visit -->[Bhagaskara](https://framat.github.io/Bhagaskara/) 
 
 Responsive website based on [Bhagaskara a onepage Multipurpose Flat Bootstrap Responsive web template](https://w3layouts.com/bhagaskara-onepage-multipurpose-flat-bootstrap-responsive-web-template/)
 
